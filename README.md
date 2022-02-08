@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 
 
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<!-- <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/syedammarilyas/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:syedammarilyas@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-syedammarilyas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
-
+ -->
 ------
 Credits: [MrStanDu33](https://github.com/MrStanDu33)
 

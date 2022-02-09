@@ -1,19 +1,15 @@
 ### Hi there 👋
 
 
-**YafitSamuel/YafitSamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**YafitSamuel/YafitSamuel** is a ✨ _special_ ✨ repository . Here are some ideas to get you started:
 
-Here are some ideas to get you started:
 
 <h2> Hey there! I'm Yafit.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Msc Business Informatics-University of Mannheim, Bsc Computer Science-National University of Computer & Emerging Sciences.
-- 💼 &nbsp; SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
-- 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
+
+- 🎓Education- Tech-Career - Technology study center
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 

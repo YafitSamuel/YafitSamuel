@@ -27,8 +27,8 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/yafit-samuel-8bb954218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-syedammarilyas-blue?style=flat-square&logo=linkedin"></a>
-<a href="yafitsamuel96@gmail.com "><img alt="Email" src="https://img.shields.io/badge/Email-syedammarilyas@hotmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/yafit-samuel-8bb954218/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-yafitsamuel-blue?style=flat-square&logo=linkedin"></a>
+<a href="yafitsamuel96@gmail.com "><img alt="Email" src="https://img.shields.io/badge/Email-yafitsamuel96@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p> 
  
 ------
